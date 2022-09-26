@@ -49,6 +49,10 @@ a {
     text-decoration: none;
 }
 
+img {
+    display: block;
+}
+
 body {
     color: var(--primary-text-color);
 
